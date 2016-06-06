@@ -15,4 +15,7 @@ if(strcasecmp($a1, $a2) == 0 || strcasecmp($a1, $a2Reverse) ==  0  || strcasecmp
 else {
     echo "Not Matched";
 }
+
+
+echo "My name is khan";
 ?>
